@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase ML</string>
+    <string name="action_settings">Settings</string>
+    <string name="fail">Failure occured</string>
+    <string name="cant_read">Couldn\'t read the text</string>
+    <string name="text">Text</string>
+    <string name="buildings">Buildings</string>
+    <string name="face">Face</string>
+    <string name="bar_code">Bar Code</string>
+    <string name="pls_take_pic_first">Please take a picture first</string>
+</resources>
